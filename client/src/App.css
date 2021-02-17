@@ -1,0 +1,26 @@
+.map__navigation {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+svg {
+  fill: rgb(0, 0, 0);
+}
+
+.z-1000 {
+  z-index: 1000;
+}
+
+.m-bt-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.over-h {
+  overflow: hidden;
+}
